@@ -7,9 +7,7 @@ The ETF's parameters are fixed at deployment for simplification, and has removed
 Built for fun, neither serious nor audited.  
 No tests included™.
 
-## Usage
-
-Build `fusion`:
+## Build
 
 ```sh
 forge bulid
