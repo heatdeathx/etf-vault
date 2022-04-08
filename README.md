@@ -1,4 +1,4 @@
-# Fusion
+# ETF Vault
 
 A minimal implementation of exchange-traded funds as [ERC-4626](https://eips.ethereum.org/EIPS/eip-4626) vaults.
 
